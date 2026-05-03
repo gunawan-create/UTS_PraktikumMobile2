@@ -12,18 +12,19 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 1 | StoryBoard
 
-
+<img width="2000" height="1600" alt="Storyboard" src="https://github.com/user-attachments/assets/04cc2ffe-ff0c-4af4-a389-76c037f044ac" />
 
 ---
 
 ### Step 2 | Wireframe
 
-
+<img width="636" height="477" alt="image" src="https://github.com/user-attachments/assets/dee4f3ed-8535-48fc-b5a5-5b92ec3d97a7" />
 
 ---
 
 ### Step 3 | Mockup
 
+<img width="754" height="587" alt="image" src="https://github.com/user-attachments/assets/c9a0b708-8384-4474-b477-550077d00567" />
 
 ---
 
@@ -33,7 +34,6 @@ https://github.com/gunawan-create/projectnotes
 
 Berikut Link figmanya
 
-https://www.figma.com/design/nNL24xVAjPslQjF2TCvrJd/Projek-Aplikasi-Catatan?node-id=0-1&p=f&t=AHNxITnM0fQbPjZx-0
 
 ---
 
@@ -43,7 +43,7 @@ https://www.figma.com/design/nNL24xVAjPslQjF2TCvrJd/Projek-Aplikasi-Catatan?node
 
 Berikut Link clickup
 
-https://sharing.clickup.com/90181800993/gr/h/4-90187467278-23/679ee210f596858
+
 
 ---
 

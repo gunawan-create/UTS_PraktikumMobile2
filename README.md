@@ -18,13 +18,14 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 2 | Wireframe
 
-<img width="636" height="477" alt="image" src="https://github.com/user-attachments/assets/dee4f3ed-8535-48fc-b5a5-5b92ec3d97a7" />
+<img width="727" height="525" alt="image" src="https://github.com/user-attachments/assets/71f1acb6-0071-4c37-b4dd-613fb78ee76d" />
+
 
 ---
 
 ### Step 3 | UI (User Interfance) 
 
-
+<img width="1050" height="770" alt="image" src="https://github.com/user-attachments/assets/ca1e2fd0-0376-484b-8b23-02532eaacf04" />
 
 ---
 
@@ -45,7 +46,8 @@ Berikut Link figmanya
 
 ### Step 6 | Mockup
 
-<img width="754" height="587" alt="image" src="https://github.com/user-attachments/assets/c9a0b708-8384-4474-b477-550077d00567" />
+<img width="881" height="595" alt="image" src="https://github.com/user-attachments/assets/1a71846b-b4aa-44ce-8b6d-9d11209368ea" />
+
 
 ---
 

@@ -22,13 +22,19 @@ https://github.com/gunawan-create/projectnotes
 
 ---
 
-### Step 3 | Mockup
+### Step 3 | UI (User Interfance) 
 
-<img width="754" height="587" alt="image" src="https://github.com/user-attachments/assets/c9a0b708-8384-4474-b477-550077d00567" />
+
 
 ---
 
-### Step 4 | Splash Screen
+### Step 4 | Video Prototype (UX) 
+
+
+---
+
+
+### Step 5 | Splash Screen
 
 
 
@@ -37,22 +43,12 @@ Berikut Link figmanya
 
 ---
 
-### Step 5 | Jadwal Timeline
+### Step 6 | Mockup
 
-
-
-Berikut Link clickup
-
-
+<img width="754" height="587" alt="image" src="https://github.com/user-attachments/assets/c9a0b708-8384-4474-b477-550077d00567" />
 
 ---
 
-### Step 6 | UI (User Interfance) 
-
-
-
----
-
-### Step 7 | Video Prototype (UX) 
+### Step 7 | Jadwal Timeline
 
 

@@ -37,8 +37,7 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 5 | Splash Screen
 
-<img width="846" height="592" alt="image" src="https://github.com/user-attachments/assets/825c9141-166d-47fe-9b7a-66d7e6179293" />
-
+<img width="1107" height="909" alt="image" src="https://github.com/user-attachments/assets/b4e70ea5-2b30-4e73-a04c-7dcc5e5ee050" />
 
 Berikut Link figmanya:
 

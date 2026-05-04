@@ -37,10 +37,12 @@ https://github.com/gunawan-create/projectnotes
 
 ### Step 5 | Splash Screen
 
+<img width="846" height="592" alt="image" src="https://github.com/user-attachments/assets/825c9141-166d-47fe-9b7a-66d7e6179293" />
 
 
-Berikut Link figmanya
+Berikut Link figmanya:
 
+https://www.figma.com/design/rRLows8mT5L6zkrr2rdITc/projek-ai?node-id=0-1&p=f&t=qTr94CEkClENfcUf-0
 
 ---
 

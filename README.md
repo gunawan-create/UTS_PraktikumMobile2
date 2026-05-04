@@ -54,4 +54,8 @@ https://www.figma.com/design/rRLows8mT5L6zkrr2rdITc/projek-ai?node-id=0-1&p=f&t=
 
 ### Step 7 | Jadwal Timeline
 
+<img width="1919" height="1068" alt="image" src="https://github.com/user-attachments/assets/b89d08d4-800c-4595-92af-d66709d691e3" />
 
+Berikut Link timeline:
+
+https://sharing.clickup.com/90181800993/l/h/6-901816597981-1/fc1279f53035abf
